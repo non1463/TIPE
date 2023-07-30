@@ -1,0 +1,9 @@
+﻿  ataxx.cpp
+C:\Users\lois\source\repos\tipe_vs\tipe_vs\ataxx.cpp(3,9): warning C4163: '_BitScanForward64' : non disponible comme fonction intrinsèque
+C:\Users\lois\source\repos\tipe_vs\tipe_vs\ataxx.cpp(12,9): error C3861: '_BitScanForward64' : identificateur introuvable
+C:\Users\lois\source\repos\tipe_vs\tipe_vs\ataxx.cpp(14,12): warning C4244: '=' : conversion de 'unsigned long' en 'uint_fast8_t', perte possible de données
+  game.cpp
+  main.cpp
+C:\Users\lois\source\repos\tipe_vs\tipe_vs\main.cpp(116,23): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+  move.cpp
+  renderer.cpp
